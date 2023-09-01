@@ -1,0 +1,398 @@
+12:17:40 - Starting servent [4|localhost|1500]
+12:17:40 - Pausing for 1000 ms
+12:17:41 - Start collecting bitcake_info
+12:17:41 - Pausing for 14000 ms
+12:17:41 - Got message [ Sender = 1 | idMessage = 19 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:41 - Rebroadcasting... 1
+12:17:41 - Got message [ Sender = 1 | idMessage = 21 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:41 - Rebroadcasting... 2
+12:17:41 - Got message [ Sender = 1 | idMessage = 2 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:41 - Rebroadcasting... 3
+12:17:41 - Got message [ Sender = 1 | idMessage = 0 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:41 - Incrementing clock on message = [ Sender = 1 | idMessage = 0 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:41 - Rebroadcasting... 4
+12:17:41 - Got message [ Sender = 1 | idMessage = 22 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:41 - Rebroadcasting... 5
+12:17:42 - Got message [ Sender = 1 | idMessage = 7 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:42 - Rebroadcasting... 6
+12:17:42 - Got message [ Sender = 1 | idMessage = 24 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Rebroadcasting... 7
+12:17:42 - Got message [ Sender = 1 | idMessage = 15 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Rebroadcasting... 8
+12:17:42 - Incrementing clock and checking pending messages, on message = [ Sender = 4 | idMessage = 0 | textMessage =  | typeMessage = Ab_ASK_AMOUNT | reciever =  null ]
+12:17:42 - Got message [ Sender = 1 | idMessage = 5 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Rebroadcasting... 9
+12:17:42 - Got message [ Sender = 1 | idMessage = 14 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Rebroadcasting... 10
+12:17:42 - Got message [ Sender = 1 | idMessage = 18 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Rebroadcasting... 11
+12:17:42 - Got message [ Sender = 1 | idMessage = 16 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Rebroadcasting... 12
+12:17:42 - Got message [ Sender = 1 | idMessage = 8 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Rebroadcasting... 13
+12:17:42 - Got message [ Sender = 1 | idMessage = 12 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:42 - Rebroadcasting... 14
+12:17:42 - Got message [ Sender = 1 | idMessage = 4 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Rebroadcasting... 15
+12:17:42 - Got message [ Sender = 1 | idMessage = 11 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:42 - Rebroadcasting... 16
+12:17:42 - Got message [ Sender = 1 | idMessage = 6 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:42 - Rebroadcasting... 17
+12:17:42 - Got message [ Sender = 1 | idMessage = 9 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:42 - Rebroadcasting... 18
+12:17:42 - Sending message [ Sender = 1 | idMessage = 21 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Got message [ Sender = 1 | idMessage = 23 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Rebroadcasting... 19
+12:17:42 - Sending message [ Sender = 1 | idMessage = 22 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Sending message [ Sender = 1 | idMessage = 0 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:42 - Sending message [ Sender = 4 | idMessage = 0 | textMessage =  | typeMessage = Ab_ASK_AMOUNT | reciever =  null ]
+12:17:42 - Got message [ Sender = 1 | idMessage = 10 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Rebroadcasting... 20
+12:17:42 - Sending message [ Sender = 1 | idMessage = 19 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Got message [ Sender = 1 | idMessage = 20 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:42 - Rebroadcasting... 21
+12:17:42 - Got message [ Sender = 1 | idMessage = 17 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Rebroadcasting... 22
+12:17:42 - Sending message [ Sender = 1 | idMessage = 18 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Got message [ Sender = 1 | idMessage = 1 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 1 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 2 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:42 - Rebroadcasting... 23
+12:17:42 - Sending message [ Sender = 1 | idMessage = 24 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Got message [ Sender = 1 | idMessage = 13 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:42 - Rebroadcasting... 24
+12:17:42 - Got message [ Sender = 1 | idMessage = 3 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 3 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 4 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 5 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 6 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 7 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 8 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 9 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 10 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 11 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 12 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 13 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 14 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 15 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 16 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 17 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 18 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 19 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 20 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 21 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 22 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 23 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:42 - Incrementing clock on message = [ Sender = 1 | idMessage = 24 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:42 - Rebroadcasting... 25
+12:17:42 - Got message [ Sender = 0 | idMessage = 6 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:42 - Rebroadcasting... 26
+12:17:42 - Sending message [ Sender = 1 | idMessage = 5 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:43 - Sending message [ Sender = 1 | idMessage = 7 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:43 - Sending message [ Sender = 1 | idMessage = 2 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:43 - Got message [ Sender = 2 | idMessage = 4 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:43 - Rebroadcasting... 27
+12:17:43 - Got message [ Sender = 0 | idMessage = 4 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:43 - Rebroadcasting... 28
+12:17:43 - Sending message [ Sender = 1 | idMessage = 9 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:43 - Got message [ Sender = 0 | idMessage = 10 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:43 - Rebroadcasting... 29
+12:17:43 - Sending message [ Sender = 1 | idMessage = 15 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:43 - Sending message [ Sender = 1 | idMessage = 4 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:43 - Got message [ Sender = 0 | idMessage = 1 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:43 - Rebroadcasting... 30
+12:17:43 - Sending message [ Sender = 1 | idMessage = 8 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:43 - Got message [ Sender = 0 | idMessage = 17 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:43 - Rebroadcasting... 31
+12:17:43 - Sending message [ Sender = 1 | idMessage = 20 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:43 - Sending message [ Sender = 1 | idMessage = 13 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:43 - Got message [ Sender = 2 | idMessage = 12 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:43 - Rebroadcasting... 32
+12:17:43 - Sending message [ Sender = 1 | idMessage = 14 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:43 - Got message [ Sender = 0 | idMessage = 19 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:43 - Rebroadcasting... 33
+12:17:43 - Got message [ Sender = 0 | idMessage = 12 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:43 - Rebroadcasting... 34
+12:17:43 - Sending message [ Sender = 1 | idMessage = 12 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:43 - Got message [ Sender = 2 | idMessage = 2 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:43 - Rebroadcasting... 35
+12:17:43 - Got message [ Sender = 2 | idMessage = 1 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:43 - Rebroadcasting... 36
+12:17:43 - Sending message [ Sender = 1 | idMessage = 17 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:43 - Sending message [ Sender = 1 | idMessage = 23 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:43 - Sending message [ Sender = 1 | idMessage = 16 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:43 - Sending message [ Sender = 1 | idMessage = 6 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:43 - Got message [ Sender = 3 | idMessage = 0 | textMessage = 1020 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:43 - Incrementing clock on message = [ Sender = 3 | idMessage = 0 | textMessage = 1020 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:43 - Rebroadcasting... 37
+12:17:43 - Got message [ Sender = 0 | idMessage = 14 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:43 - Rebroadcasting... 38
+12:17:43 - Got message [ Sender = 2 | idMessage = 8 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:43 - Rebroadcasting... 39
+12:17:43 - Got message [ Sender = 0 | idMessage = 0 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:43 - Incrementing clock on message = [ Sender = 0 | idMessage = 0 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:43 - Incrementing clock on message = [ Sender = 0 | idMessage = 1 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:43 - Rebroadcasting... 40
+12:17:43 - Got message [ Sender = 0 | idMessage = 20 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:43 - Rebroadcasting... 41
+12:17:43 - Got message [ Sender = 4 | idMessage = 0 | textMessage =  | typeMessage = Ab_ASK_AMOUNT | reciever =  null ]
+12:17:43 - Got own message back. No rebroadcast.
+12:17:43 - Got message [ Sender = 0 | idMessage = 21 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:43 - Rebroadcasting... 42
+12:17:43 - Got message [ Sender = 0 | idMessage = 13 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:43 - Rebroadcasting... 43
+12:17:43 - Got message [ Sender = 0 | idMessage = 8 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:43 - Rebroadcasting... 44
+12:17:43 - Got message [ Sender = 2 | idMessage = 9 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:43 - Rebroadcasting... 45
+12:17:43 - Got message [ Sender = 2 | idMessage = 19 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:43 - Rebroadcasting... 46
+12:17:43 - Got message [ Sender = 0 | idMessage = 9 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:43 - Rebroadcasting... 47
+12:17:43 - Sending message [ Sender = 1 | idMessage = 11 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:43 - Got message [ Sender = 2 | idMessage = 13 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:43 - Rebroadcasting... 48
+12:17:43 - Got message [ Sender = 2 | idMessage = 15 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:43 - Rebroadcasting... 49
+12:17:43 - Sending message [ Sender = 2 | idMessage = 4 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Sending message [ Sender = 1 | idMessage = 10 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:44 - Sending message [ Sender = 1 | idMessage = 1 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:44 - Got message [ Sender = 0 | idMessage = 15 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Rebroadcasting... 50
+12:17:44 - Got message [ Sender = 2 | idMessage = 0 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 0 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 1 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 2 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Rebroadcasting... 51
+12:17:44 - Got message [ Sender = 0 | idMessage = 22 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:44 - Rebroadcasting... 52
+12:17:44 - Got message [ Sender = 2 | idMessage = 14 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Rebroadcasting... 53
+12:17:44 - Sending message [ Sender = 1 | idMessage = 3 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 17 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Got message [ Sender = 0 | idMessage = 3 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Rebroadcasting... 54
+12:17:44 - Rebroadcasting... 55
+12:17:44 - Got message [ Sender = 0 | idMessage = 11 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:44 - Rebroadcasting... 56
+12:17:44 - Sending message [ Sender = 3 | idMessage = 0 | textMessage = 1020 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:44 - Sending message [ Sender = 0 | idMessage = 4 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:44 - Sending message [ Sender = 2 | idMessage = 9 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Sending message [ Sender = 2 | idMessage = 15 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Sending message [ Sender = 2 | idMessage = 19 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 11 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Sending message [ Sender = 0 | idMessage = 0 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:44 - Sending message [ Sender = 0 | idMessage = 6 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 16 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Rebroadcasting... 57
+12:17:44 - Rebroadcasting... 58
+12:17:44 - Sending message [ Sender = 0 | idMessage = 17 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 7 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Rebroadcasting... 59
+12:17:44 - Got message [ Sender = 2 | idMessage = 18 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Rebroadcasting... 60
+12:17:44 - Got message [ Sender = 2 | idMessage = 5 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Rebroadcasting... 61
+12:17:44 - Sending message [ Sender = 2 | idMessage = 2 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Got message [ Sender = 0 | idMessage = 24 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 21 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Rebroadcasting... 62
+12:17:44 - Rebroadcasting... 63
+12:17:44 - Got message [ Sender = 2 | idMessage = 3 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 3 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 4 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 10 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 5 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Rebroadcasting... 64
+12:17:44 - Got message [ Sender = 0 | idMessage = 18 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Rebroadcasting... 65
+12:17:44 - Rebroadcasting... 66
+12:17:44 - Got message [ Sender = 0 | idMessage = 16 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 22 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 23 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:44 - Rebroadcasting... 67
+12:17:44 - Got message [ Sender = 0 | idMessage = 23 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Rebroadcasting... 68
+12:17:44 - Rebroadcasting... 69
+12:17:44 - Rebroadcasting... 70
+12:17:44 - Sending message [ Sender = 2 | idMessage = 12 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:44 - Sending message [ Sender = 2 | idMessage = 8 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 20 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 24 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Sending message [ Sender = 0 | idMessage = 10 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Rebroadcasting... 71
+12:17:44 - Rebroadcasting... 72
+12:17:44 - Sending message [ Sender = 0 | idMessage = 15 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Sending message [ Sender = 0 | idMessage = 13 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Sending message [ Sender = 0 | idMessage = 19 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Got message [ Sender = 2 | idMessage = 6 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Sending message [ Sender = 0 | idMessage = 12 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 6 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 7 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 8 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 9 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 10 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 11 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 12 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 13 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 14 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 15 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 16 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 17 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 18 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 19 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 20 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 21 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 22 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 23 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:44 - Incrementing clock on message = [ Sender = 2 | idMessage = 24 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Rebroadcasting... 73
+12:17:44 - Sending message [ Sender = 2 | idMessage = 1 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Sending message [ Sender = 0 | idMessage = 1 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:44 - Got message [ Sender = 0 | idMessage = 2 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Incrementing clock on message = [ Sender = 0 | idMessage = 2 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:44 - Incrementing clock on message = [ Sender = 0 | idMessage = 3 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:44 - Incrementing clock on message = [ Sender = 0 | idMessage = 4 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:44 - Rebroadcasting... 74
+12:17:44 - Sending message [ Sender = 0 | idMessage = 14 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Sending message [ Sender = 0 | idMessage = 3 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Got message [ Sender = 0 | idMessage = 7 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Rebroadcasting... 75
+12:17:45 - Sending message [ Sender = 0 | idMessage = 8 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Sending message [ Sender = 0 | idMessage = 20 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Sending message [ Sender = 0 | idMessage = 21 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:45 - Got message [ Sender = 0 | idMessage = 5 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 5 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 6 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 7 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 8 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 9 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 10 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 11 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 12 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 13 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 14 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 15 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 16 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 17 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 18 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 19 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 20 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 21 | textMessage = 3 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 22 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 23 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Incrementing clock on message = [ Sender = 0 | idMessage = 24 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:45 - Rebroadcasting... 76
+12:17:45 - Sending message [ Sender = 0 | idMessage = 9 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 10 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 0 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 16 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Sending message [ Sender = 0 | idMessage = 22 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 13 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 3 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 20 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 7 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 18 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 17 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Sending message [ Sender = 0 | idMessage = 18 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Sending message [ Sender = 0 | idMessage = 7 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Sending message [ Sender = 0 | idMessage = 11 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 21 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 22 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 23 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  0 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 24 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 14 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:45 - Sending message [ Sender = 2 | idMessage = 11 | textMessage = 5 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:45 - Sending message [ Sender = 0 | idMessage = 24 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  2 ]
+12:17:45 - Got message [ Sender = 2 | idMessage = 25 | textMessage = 975 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:45 - Incrementing clock on message = [ Sender = 2 | idMessage = 25 | textMessage = 975 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:45 - Rebroadcasting... 77
+12:17:45 - Got message [ Sender = 1 | idMessage = 25 | textMessage = 954 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:45 - Incrementing clock on message = [ Sender = 1 | idMessage = 25 | textMessage = 954 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:45 - Rebroadcasting... 78
+12:17:46 - Sending message [ Sender = 2 | idMessage = 6 | textMessage = 4 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:46 - Sending message [ Sender = 0 | idMessage = 2 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:46 - Sending message [ Sender = 0 | idMessage = 23 | textMessage = 1 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:46 - Sending message [ Sender = 2 | idMessage = 5 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  4 ]
+12:17:46 - Sending message [ Sender = 0 | idMessage = 16 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  3 ]
+12:17:46 - Sending message [ Sender = 0 | idMessage = 5 | textMessage = 2 | typeMessage = TRANSACTION | reciever =  1 ]
+12:17:46 - Sending message [ Sender = 1 | idMessage = 25 | textMessage = 954 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:46 - Sending message [ Sender = 2 | idMessage = 25 | textMessage = 975 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:47 - Got message [ Sender = 0 | idMessage = 25 | textMessage = 945 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:47 - Incrementing clock on message = [ Sender = 0 | idMessage = 25 | textMessage = 945 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:47 - Rebroadcasting... 79
+12:17:49 - Sending message [ Sender = 0 | idMessage = 25 | textMessage = 945 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:49 - Info for node4 = 1003 bitcake
+12:17:49 - Info for node2 = 975 bitcake
+12:17:49 - Info for unprocessed transaction: 4 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 1 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 1 bitcake,sender:  [2|localhost|1300] ,reciever: [3|localhost|1400]
+12:17:49 - Info for unprocessed transaction: 4 bitcake,sender:  [2|localhost|1300] ,reciever: [1|localhost|1200]
+12:17:49 - Info for unprocessed transaction: 1 bitcake,sender:  [2|localhost|1300] ,reciever: [1|localhost|1200]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 4 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 1 bitcake,sender:  [2|localhost|1300] ,reciever: [3|localhost|1400]
+12:17:49 - Info for unprocessed transaction: 1 bitcake,sender:  [2|localhost|1300] ,reciever: [1|localhost|1200]
+12:17:49 - Info for unprocessed transaction: 3 bitcake,sender:  [2|localhost|1300] ,reciever: [1|localhost|1200]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [2|localhost|1300] ,reciever: [1|localhost|1200]
+12:17:49 - Info for unprocessed transaction: 5 bitcake,sender:  [2|localhost|1300] ,reciever: [1|localhost|1200]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 5 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 5 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 5 bitcake,sender:  [2|localhost|1300] ,reciever: [1|localhost|1200]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 3 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [2|localhost|1300] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 4 bitcake,sender:  [2|localhost|1300] ,reciever: [3|localhost|1400]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [2|localhost|1300] ,reciever: [1|localhost|1200]
+12:17:49 - Info for node3 = 1020 bitcake
+12:17:49 - Info for node0 = 945 bitcake
+12:17:49 - Info for unprocessed transaction: 1 bitcake,sender:  [0|localhost|1100] ,reciever: [3|localhost|1400]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [0|localhost|1100] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 4 bitcake,sender:  [0|localhost|1100] ,reciever: [3|localhost|1400]
+12:17:49 - Info for unprocessed transaction: 5 bitcake,sender:  [0|localhost|1100] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [0|localhost|1100] ,reciever: [3|localhost|1400]
+12:17:49 - Info for unprocessed transaction: 5 bitcake,sender:  [0|localhost|1100] ,reciever: [3|localhost|1400]
+12:17:49 - Info for unprocessed transaction: 1 bitcake,sender:  [0|localhost|1100] ,reciever: [3|localhost|1400]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [0|localhost|1100] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [0|localhost|1100] ,reciever: [3|localhost|1400]
+12:17:49 - Info for unprocessed transaction: 3 bitcake,sender:  [0|localhost|1100] ,reciever: [3|localhost|1400]
+12:17:49 - Info for unprocessed transaction: 5 bitcake,sender:  [0|localhost|1100] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 1 bitcake,sender:  [0|localhost|1100] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 1 bitcake,sender:  [0|localhost|1100] ,reciever: [3|localhost|1400]
+12:17:49 - Info for node1 = 954 bitcake
+12:17:49 - Info for unprocessed transaction: 3 bitcake,sender:  [1|localhost|1200] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 1 bitcake,sender:  [1|localhost|1200] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [1|localhost|1200] ,reciever: [4|localhost|1500]
+12:17:49 - Info for unprocessed transaction: 2 bitcake,sender:  [1|localhost|1200] ,reciever: [4|localhost|1500]
+12:17:49 - System bitcake count: 5000
+12:17:55 - Start collecting bitcake_info
+12:17:55 - Pausing for 15000 ms
+12:17:55 - Incrementing clock and checking pending messages, on message = [ Sender = 4 | idMessage = 1 | textMessage =  | typeMessage = Ab_ASK_AMOUNT | reciever =  null ]
+12:17:56 - Sending message [ Sender = 4 | idMessage = 1 | textMessage =  | typeMessage = Ab_ASK_AMOUNT | reciever =  null ]
+12:17:56 - Got message [ Sender = 3 | idMessage = 1 | textMessage = 1045 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:56 - Incrementing clock on message = [ Sender = 3 | idMessage = 1 | textMessage = 1045 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:56 - Rebroadcasting... 80
+12:17:57 - Got message [ Sender = 4 | idMessage = 1 | textMessage =  | typeMessage = Ab_ASK_AMOUNT | reciever =  null ]
+12:17:57 - Got own message back. No rebroadcast.
+12:17:58 - Sending message [ Sender = 3 | idMessage = 1 | textMessage = 1045 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:58 - Got message [ Sender = 2 | idMessage = 26 | textMessage = 975 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:58 - Incrementing clock on message = [ Sender = 2 | idMessage = 26 | textMessage = 975 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:58 - Rebroadcasting... 81
+12:17:58 - Got message [ Sender = 1 | idMessage = 26 | textMessage = 977 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:58 - Incrementing clock on message = [ Sender = 1 | idMessage = 26 | textMessage = 977 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:58 - Rebroadcasting... 82
+12:17:59 - Sending message [ Sender = 1 | idMessage = 26 | textMessage = 977 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:17:59 - Sending message [ Sender = 2 | idMessage = 26 | textMessage = 975 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:18:01 - Got message [ Sender = 0 | idMessage = 26 | textMessage = 945 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:18:01 - Incrementing clock on message = [ Sender = 0 | idMessage = 26 | textMessage = 945 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:18:01 - Rebroadcasting... 83
+12:18:02 - Sending message [ Sender = 0 | idMessage = 26 | textMessage = 945 | typeMessage = Ab_TELL_AMOUNT | reciever =  4 ]
+12:18:02 - Info for node4 = 1058 bitcake
+12:18:02 - Info for node2 = 975 bitcake
+12:18:02 - Info for node3 = 1045 bitcake
+12:18:02 - Info for node0 = 945 bitcake
+12:18:02 - Info for node1 = 977 bitcake
+12:18:02 - System bitcake count: 5000
+12:18:10 - Stopping...
